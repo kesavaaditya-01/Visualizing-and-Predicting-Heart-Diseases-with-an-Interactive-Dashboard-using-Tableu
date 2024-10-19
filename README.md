@@ -46,6 +46,7 @@ General Health vs. Heart Disease
 Physical Activity vs. Heart Disease, and more.
 
 Tools & Technologies
+
 Tableau: For data visualization and interactive storytelling.
 Flask: For embedding the dashboard and web integration.
 SQL: For storing and managing data.
